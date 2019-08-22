@@ -1,1 +1,1 @@
-var = 4;
+console.log('hello');
